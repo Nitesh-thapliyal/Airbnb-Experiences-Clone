@@ -5,6 +5,7 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    font-size: larger;
 }
 
 nav {
@@ -40,4 +41,5 @@ section {
 
 .hero--text {
     margin-top: 0;
+    
 }

@@ -21,7 +21,8 @@ return (
       // openSpots = {item.openSpots}
 
       key={item.id}
-      item = {item}
+      // item = {item}
+      {...item}
     />
 )
 })        
